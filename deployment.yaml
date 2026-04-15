@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: agilefat186-vaishnavi
+  name: vaishnavi-auction
   labels:
     app: java-test-app
 spec:
@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: java-test-app
-          image: sindoori14/agilefat186:latest
+          image: sindoori14/agilefat186auction:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8080

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.booking.TicketServiceTest
+Test set: com.booking.AuctionServiceTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.236 s -- in com.booking.TicketServiceTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.665 s -- in com.booking.AuctionServiceTest
